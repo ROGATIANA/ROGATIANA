@@ -1,7 +1,6 @@
-## 👋 Hi there, je suis ROGATIANA
+"## 👋 Hi there, je suis ROGATIANA"
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique+passionn%C3%A9+par+le+d%C3%A9veloppement+web+et+la+cr%C3%A9ation+d%27exp%C3%A9riences+digitales.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique+passionn%C3%A9;D%C3%A9veloppement+web+et+cr%C3%A9ation+d'exp%C3%A9riences+digitales.)
 
 ## 🚀 À propos de moi
 
@@ -25,8 +24,6 @@
 
 ## 📌 Projets en vedette
 
-## 📌 Projets en vedette
-
 ### 🛒 [BublioUniv](https://rogatiana.github.io/DA2II_L1_Groupe_6/)
 Site de bibliothèque Uniersitaire
 
@@ -39,4 +36,4 @@ Site web de portfolio personnel avec responsive design
 
 ---
 
-⭐️ De [rogatiana](https://github.com/rogatiana)
+⭐️ De [ROGATIANA](https://github.com/rogatiana)
