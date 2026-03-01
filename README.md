@@ -20,7 +20,7 @@
 
 ## 📊 Stats GitHub
 
-![Les stats GitHub de ROGATIANA](https://github-readme-stats.vercel.app/api?username=rogatiana&show_icons=true&theme=radical)
+![Les stats GitHub de ROGATIANA](https://rogatiana.vercel.app/api?username=rogatiana&show_icons=true&theme=radical)
 
 ## 📌 Projets en vedette
 
