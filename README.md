@@ -1,6 +1,4 @@
-<div align="center">
-  ## 👋 Hi there, je suis ROGATIANA
-</div>
+ <div align="center"> ## 👋 Hi there, je suis ROGATIANA </div> 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique)
 
