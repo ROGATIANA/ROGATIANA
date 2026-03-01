@@ -1,6 +1,6 @@
 ##👋 Hi there, je suis ROGATIANA
 
-Étudiant en informatique passionné par le développement web et la création d'expériences digitales.
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=%C3%89tudiant+en+informatique+passionn%C3%A9;D%C3%A9veloppement+web+et+la+Robotique&center=true&color=1572B6&size=22&font=Fira+Code)](https://git.io/typing-svg)
 
 ## 🚀 À propos de moi
 
