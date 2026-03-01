@@ -18,10 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 Stats GitHub
-
-![Les stats GitHub de ROGATIANA](https://rogatiana.vercel.app/api?username=rogatiana&show_icons=true&theme=radical)
-
 ## 📌 Projets en vedette
 
 ### 🛒 [BublioUniv](https://rogatiana.github.io/DA2II_L1_Groupe_6/)
