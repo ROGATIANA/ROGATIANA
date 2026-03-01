@@ -20,7 +20,7 @@
 
 ## 📌 Projets en vedette
 
-### 🛒 [BublioUniv](https://rogatiana.github.io/DA2II_L1_Groupe_6/)
+### 🏤 [BublioUniv](https://rogatiana.github.io/DA2II_L1_Groupe_6/)
 Site de bibliothèque Uniersitaire
 
 ### ☁️ [BACC App](https://rogatiana.github.io/BACC/)
