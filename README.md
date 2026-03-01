@@ -1,16 +1,41 @@
-## Hi there 👋
+##👋 Hi there, je suis ROGATIANA
 
-<!--
-**ROGATIANA/ROGATIANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique passionné par le développement web et la création d'expériences digitales.
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur mon **portfolio personnel**
+- 🌱 J'apprends actuellement **React, Node.js, et le développement full-stack**
+- 👯 Je cherche à collaborer sur des projets **open source intéressants**
+- 💬 Demandez-moi à propos de **HTML, CSS, JavaScript, Excel**
+- 📫 Comment me joindre : [Twitter](https://twitter.com/rogatiana05) | [Email](mailto:rogatiana@email.com)
+- ⚡ Fait amusant : Je parle français, malgache et j'apprends l'anglais
+
+## 🛠️ Compétences
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+## 📊 Stats GitHub
+
+![Les stats GitHub de ROGATIANA](https://github-readme-stats.vercel.app/api?username=rogatiana&show_icons=true&theme=radical)
+
+## 📌 Projets en vedette
+
+## 📌 Projets en vedette
+
+### 🛒 [BublioUniv](https://rogatiana.github.io/DA2II_L1_Groupe_6/)
+Site de bibliothèque Uniersitaire
+
+### ☁️ [BACC App](https://rogatiana.github.io/BACC/
+)
+App BACCalauréat scientifique
+
+### 👨‍💻 [Portfolio](https://lien.com)
+Site web de portfolio personnel avec responsive design
+
+---
+
+⭐️ De [rogatiana](https://github.com/rogatiana)
