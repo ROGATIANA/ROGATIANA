@@ -1,6 +1,8 @@
-"## 👋 Hi there, je suis ROGATIANA"
+<div align="center">
+  ## 👋 Hi there, je suis ROGATIANA
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique+passionn%C3%A9;D%C3%A9veloppement+web+et+cr%C3%A9ation+d'exp%C3%A9riences+digitales.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique)
 
 ## 🚀 À propos de moi
 
