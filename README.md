@@ -1,6 +1,6 @@
 ##👋 Hi there, je suis ROGATIANA
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?lines=%C3%89tudiant+en+informatique+passionn%C3%A9;D%C3%A9veloppement+web+et+la+Robotique&center=true&color=1572B6&size=22&font=Fira+Code)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique+passionn%C3%A9+par+le+d%C3%A9veloppement+web+et+la+cr%C3%A9ation+d%27exp%C3%A9riences+digitales.)
+https://readme-typing-svg.demolab.com/?lines=%C3%89tudiant+en+informatique+passionn%C3%A9+par+le+d%C3%A9veloppement+web+et+la+cr%C3%A9ation+d%27exp%C3%A9riences+digitales.
 
 ## 🚀 À propos de moi
 
